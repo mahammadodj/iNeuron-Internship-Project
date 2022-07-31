@@ -1,5 +1,3 @@
-from concurrent.futures import thread
-from tkinter import N
 from server_app import pred
 from threading import Thread
 from flask import Flask
