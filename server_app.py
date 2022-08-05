@@ -15,7 +15,7 @@ def app_func():
 
     def pred(weekday, month, holiday, hour, weather_main, clouds_all, temp):
         
-        path = urlopen(r'https://github.com/MuhammadOo/iNeuron-Internship-Project/raw/main/mypickle.pkl')
+        path = urlopen(r'https://github.com/MuhammadOo/iNeuron-Internship-Project/raw/master/mypickle.pkl')
         
         cols = ['holiday','temp','clouds_all','weather_main','weekday','hour','month']
         
