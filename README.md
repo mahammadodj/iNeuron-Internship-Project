@@ -72,8 +72,8 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 
 ## Appendix
-Link for youtube video regarding description of the project :  
-https://youtu.be/KFZXXu3OSSk
+Link for video regarding to the explanation of the project :  
+https://drive.google.com/file/d/1PkUzDJSgya7YWwuW7OVA7Rc0CnZ9oEJ5/view
 
 Link for App Documentation :    
 https://github.com/MuhammadOo/iNeuron-Internship-Project/tree/master/Documents
