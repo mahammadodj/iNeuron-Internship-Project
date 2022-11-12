@@ -111,7 +111,7 @@ CatBoost model was used as the best estimator which was then used for production
 
 ## Author
 
- [Mahammad Ojagzada](https://www.linkedin.com/in/mahammed-ojagzada/)
+ [Mahammad Ojagzada](https://www.linkedin.com/in/mahammad-ojagzada/)
 
 
 ## License
