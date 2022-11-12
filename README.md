@@ -38,7 +38,7 @@ dataset, which is a regression issue.
 
 The dataset contains about 48k records and 9 features which after all the implementation of all standard techniques like Data Cleaning, Feature Engineering, Feature Selection, Outlier Treatment, etc was feeded to our Classifier which after training and testing, was deployed in the form of a web application.
 ## Project Goal
-This complete poject is made as a part of Data Science Internship at [iNeuron.ai](https://internship.ineuron.ai/).
+This complete project is made as a part of Data Science Internship at [iNeuron.ai](https://internship.ineuron.ai/).
 ## Technical Aspects
 The whole project has been divided into three parts. These are listed as follows :
 
