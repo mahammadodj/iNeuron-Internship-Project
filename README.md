@@ -75,7 +75,7 @@ Link for video regarding to the explanation of the project :
 https://drive.google.com/file/d/1PkUzDJSgya7YWwuW7OVA7Rc0CnZ9oEJ5/view
 
 Link for App Documentation :    
-https://github.com/MuhammadOo/iNeuron-Internship-Project/tree/master/Documents
+https://github.com/mahammadodj/iNeuron-Internship-Project/tree/master/Documents
 
 
 ## FAQ
