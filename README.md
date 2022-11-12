@@ -111,14 +111,14 @@ CatBoost model was used as the best estimator which was then used for production
 
 ## Author
 
- [Muhammad Ojagzada](https://www.linkedin.com/in/muhammed-ojagzada/)
+ [Mahammad Ojagzada](https://www.linkedin.com/in/mahammed-ojagzada/)
 
 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-Copyright 2022 Muhammad Ojagzada
+Copyright 2022 Mahammad Ojagzada
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -127,5 +127,5 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ## Feedback
 
-If you have any feedback, please reach out to me at muhammad.ojagzada.std@bhos.edu.az
+If you have any feedback, please reach out to me at muhammad.ojagzada.std@bhos.edu.az.
 
