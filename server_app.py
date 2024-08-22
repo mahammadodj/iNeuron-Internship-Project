@@ -1,3 +1,5 @@
+# This code is implemented in Anvil App
+
 import anvil.server
 import time
 from urllib.request import urlopen
