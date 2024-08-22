@@ -57,7 +57,7 @@ Run on your Local Machine :
 ```bash
 python server.py
 ```
-This will start the run the server.py which will also trigger code for server_app.py because of the use of asynchronous execution (threading) and will connect our ML model to Anvil application UI and will keep the server running till the web page rendered by flask application gets closed but to keep the server running forever, we used the heroku cloud to run our server continuously.
+This will start the run the server.py which will also trigger code for server_app.py (implemented in Anvill app) because of the use of asynchronous execution (threading) and will connect our ML model to Anvil application UI and will keep the server running till the web page rendered by flask application gets closed but to keep the server running forever, we used the heroku cloud to run our server continuously.
 ## Feature Request
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly email me (muhammad.ojagzada.std@bhos.edu.az) by including your search query and the expected result.
 
@@ -127,5 +127,5 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ## Feedback
 
-If you have any feedback, please reach out to me at muhammad.ojagzada.std@bhos.edu.az.
+If you have any feedback, please reach out to me at mahammad.ojagzada@outlook.com
 
