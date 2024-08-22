@@ -24,7 +24,10 @@
 
 ![link2](https://media.giphy.com/media/Oot57tTVWNL4tQmT1G/giphy.gif)
 
-𝐍𝐨𝐭𝐞: 𝐖𝐞𝐛 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐰𝐨𝐫𝐤𝐬 𝟐𝟒/𝟕.
+### Update
+**Starting from November 28th, 2022 Heroku shuts down their free tier, which means that free Heroku Dynos, Postgres and Redis servers will no longer be available.**
+
+Unfortunately, Heroku stopped their free tier, that is why, the project website does not work anymore.
 
 ## Overview
 Nowadays, traffic is a major issue for everyone, and it is a source of stress for anyone
